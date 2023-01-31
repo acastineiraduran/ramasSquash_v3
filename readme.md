@@ -10,7 +10,7 @@ busca realizar el dibujo de la izquierda (utiliza merge squash).
 |usuario     |@acastineiraduran|@<nombre-gh> |
 
 1. Seguimiento proyecto - ***commits: A y B*** :large_blue_circle:
-    1. Hago primer commit en la rama _master_ para realizar
+    1. Hago primer commit en la rama _main_ para realizar
        seguimiento local del proyecto.
     2. Primera modificacion de la clase _Main_ y segundo commit.
-    3. Subo el proyecto a [GitHub](<enlace-angel>).
+    3. Subo el proyecto a [GitHub](<https://github.com/acastineiraduran/ramasSquash_v2.git>).
