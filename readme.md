@@ -19,6 +19,7 @@ busca realizar el dibujo de la izquierda (utiliza merge squash).
        seguimiento local del proyecto.
     2. Primera modificacion de la clase _Main_ y segundo commit.
     3. Subo el proyecto a [GitHub](<https://github.com/acastineiraduran/ramasSquash_v2.git>).
+   4. :heavy_check_mark: Le doy permisos de colaborador a @Lucasperezparracho.
 
 
 2. Creación rama colaborador - ***comits: c1, c2, c3*** :green_circle:
