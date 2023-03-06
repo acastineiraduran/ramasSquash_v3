@@ -5,7 +5,7 @@ busca realizar el dibujo de la izquierda (utiliza merge squash).
 ![squashEnunciado](imagenes/resulado.png)
 *****
 ## Solución 1
-> **Actualización readme 06/03/23:** Debido a que mi compañero y yo hicicismo el
+> **Actualización readme 06/03/23:** Debido a que mi compañero y yo hicimos el
 > trabajo antes de que se explicara la utilidad de colaborador en clases,
 > resolvimos el ejercicio de forma más rudimentaria y por ello esta aclaración.
 > La partes incorrectas se señalarán con :x: y la resolución con :heavy_check_mark:
@@ -41,13 +41,14 @@ busca realizar el dibujo de la izquierda (utiliza merge squash).
 3. Creación rama lider - ***commits: l1, l2, l3*** :large_blue_circle:
     1. :x: Después de hacer un `git clone` del [repositorio del colaborador](https://github.com/Lucasperezparracho/ramasSquash.git).
        :heavy_check_mark: Hago un `git pull origin main` por si se ha hecho alguna
-        modificación en la rama _main_ (aunque no debería).
+        modificación en la rama _main_ (aunque no debería). 
+       
        A continuación, me posiciono en la rama _main_, y aplico los siguientes commandos en la consola:
-    ```
-   git branch lider
-   git switch lider
-   git branch
-   ```
+       ```
+       git branch lider
+       git switch lider
+       git branch
+       ```
     2. Creo una nueva clase llamada _ImplementacionesLider_.
     3. Hago 3 commits en la nueva clase, dejando constancia con un comentario
        por cada commit realizado en esta nueva clase.
@@ -63,6 +64,7 @@ busca realizar el dibujo de la izquierda (utiliza merge squash).
     1. Me posiciono en la _main_ y, esta vez desde la interfaz grafica,
        realizo el
        `git merge --squash` de la rama _colaborador_.
+   
        ![paso1](<imagenes/paso1.png>)
        ![paso2](<imagenes/paso2.png>)
     2. Compruebo que se haya modificado la _src_ con `git status`
